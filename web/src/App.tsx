@@ -1,5 +1,3 @@
-import React from 'react';
-import logo from './logo.svg';
 import { AiFillDelete } from 'react-icons/ai';
 import { MdModeEdit } from 'react-icons/md';
 import styles from './App.module.scss';
